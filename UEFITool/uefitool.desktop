@@ -1,10 +1,9 @@
 [Desktop Entry]
 Type=Application
-Version=1.0
-Name=UEFITool
+Version=0.59
+Name=UEFITool 0.59
 Comment=UEFI firmware image viewer and editor
-Path=/usr/bin
-Exec=uefitool
+Exec=UEFITool
 Icon=uefitool
 Terminal=false
 Categories=Development;System;Utility;HardwareSettings;Electronics;Engineering;
